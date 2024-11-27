@@ -1,0 +1,56 @@
+h1{
+    padding-left: 450px;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.967);
+    font-size: 36px;
+    font-weight: 500;
+    }
+#two{
+    background-color: rgba(0, 0, 0, 0.808);
+    width: 1500px;
+height: 20em;
+}
+.image{
+
+    width: 600px;
+    margin-left: 450px;
+    margin-top:80px ;
+}
+#one{width: 100%;
+    background-color:rgba(0, 0, 0, 0.808) ;
+border:5px solid grey;
+}
+
+#four{
+    color: gray;
+    text-transform: capitalize;
+}
+#five{
+    color: rgb(190, 0, 44);
+    text-transform: capitalize;
+
+}
+#six{
+    font-family: sans-serif;
+    margin-left: 450px;
+}
+#seven{
+    margin-left: 250px;
+    color: rgba(255,255, 255,0.8);
+}
+#eight{
+    margin-left: 20px;
+    color: rgba(255,255, 255,0.8);
+}
+#nin{ margin-left: 20px;
+    color: rgba(255,255, 255,0.8);
+
+}
+#ten{ margin-left: 20px;
+    color: rgba(255,255, 255,0.8);
+
+}
+#ele{
+    text-transform: capitalize;
+    margin-left: 450px;
+}
